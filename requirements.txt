@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+unidecode
+datetime
+selenium
+unicodecsv
+xlsxwriter
+xlrd
+xlwt
+webdriver-manager
+geckodriver-autoinstaller
